@@ -1,5 +1,14 @@
-public static void
+package com.flipkart;
+
+/**
+ *  * Hello world!
+ *   *
+ *    */
+public class App
 {
-public static class
-a=20
-}
+	    public static void main( String[] args )
+		        {
+				        System.out.println( "Hello World!" );
+					    }
+	    }
+
